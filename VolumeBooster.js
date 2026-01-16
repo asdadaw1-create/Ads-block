@@ -5,10 +5,10 @@
 // @match        *://*.Youtube.com/*
 // @icon         https://M.youtube.com/favicon.ico?v=1
 // @grant        none
-// @require https://raw.githubusercontent.com/Zrutubez/add.js/refs/heads/main/ytbspeedad.js
+// @require https://raw.githubusercontent.com/asdadaw1-create/Ads-block/refs/heads/main/ytbspeedad.js
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/Zrutubez/add.js/refs/heads/main/VolumeBooster.js
-// @updateURL https://raw.githubusercontent.com/Zrutubez/add.js/refs/heads/main/VolumeBooster.js
+// @downloadURL https://raw.githubusercontent.com/asdadaw1-create/Ads-block/refs/heads/main/VolumeBooster.js
+// @updateURL https://raw.githubusercontent.com/asdadaw1-create/Ads-block/refs/heads/main/VolumeBooster.js
 // ==/UserScript==
 
 (function() {
